@@ -1,0 +1,14 @@
+# Archivos de trabajo / temporales — no publicar en GitHub
+raw_fo/*
+!raw_fo/rebuild_publish.py
+!raw_fo/fleet_tokens.json
+
+# Copias de seguridad de datos
+data.json.bak*
+*.bak
+*.bak_*
+
+# Sistema y Python
+.DS_Store
+__pycache__/
+*.pyc
